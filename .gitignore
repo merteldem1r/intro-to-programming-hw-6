@@ -1,0 +1,28 @@
+.vscode/
+# Compiled object files
+*.o
+*.obj
+
+# Executable files
+*.exe
+*.out
+*.app
+
+# Static libraries
+*.a
+*.lib
+
+# Dynamic libraries
+*.so
+*.dll
+*.dylib
+
+# CMake build directory
+build/
+cmake_build/
+
+# IDE and editor files
+*.swp
+*.swo
+*~
+.DS_Store
