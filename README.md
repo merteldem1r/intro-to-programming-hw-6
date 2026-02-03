@@ -1,4 +1,4 @@
-### Introduction to Programming HW 6
+### Introduction to Programming
 
 Student: **Mert Eldemir**
 <br/>
