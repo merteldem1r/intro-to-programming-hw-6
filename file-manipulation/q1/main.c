@@ -33,6 +33,7 @@ void getStudentsInfo(FILE *filePtr, int studentCount)
         printf("Enter midterm note for student %d: ", i + 1);
         fgets(buffer, sizeof(buffer), stdin);
         sscanf(buffer, "%f", &newStudent.midtermNote);
+        
         printf("Enter final note for student %d: ", i + 1);
         fgets(buffer, sizeof(buffer), stdin);
         sscanf(buffer, "%f", &newStudent.finalNote);
